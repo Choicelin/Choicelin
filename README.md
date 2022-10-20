@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Choicelin
 - 👀 I’m interested in php development
 - 🌱 I’m currently learning web technology
-- 💞️ I’m looking to collaborate on electron, vue, express.js, thinkphp
+- 💞️ I’m looking to collaborate on electron, vue, express.js, thinkphp, react, python
 - 📫 Contact me at 413807584@qq.com
